@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Chetan309/Chetan309/output/github-snake.svg" />
 </div>
 
 ###
