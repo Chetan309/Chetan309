@@ -6,7 +6,7 @@
 - 🔭 I’m currently in my 3rd year of Computer Science Engineering.
 - 🌱 Currently exploring Nextjs and DSA in Java.
 - ⚡ Fun fact: I love Photography and Fitness.
-- 💬 Ask me about Web Development, App Development, Photography or anything [Here](https://www.linkedin.com/in/chetansharma30/)
+- 💬 Ask me about Web Development, Photography or anything [Here](https://www.linkedin.com/in/chetansharma30/)
 - 📫 You can reach me out via [Chetan309044@gmail.com](mailto:chetan309044@gmail.com)
 - 📫 How to find me:
   - 📧 [Mail](mailto:chetan309044@gmail.com)
