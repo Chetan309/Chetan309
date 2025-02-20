@@ -1,5 +1,18 @@
-<h2 align="center">👋 Hi there, I'm Chetan Sharma!</h2>
 
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
+
+<h2 align="center">👋 Hi there, I'm Chetan Sharma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
+- 🌊 I'm from India.
+- 🔭 I’m currently in my 3rd year of Computer Science Engineering.
+- 🌱 Currently exploring Nextjs and DSA in Java.
+- ⚡ Fun fact: I love Photography and Fitness.
+- 💬 Ask me about Web Development, App Development, Photography or anything [Here](https://www.linkedin.com/in/chetansharma30/)
+- 📫 You can reach me out via [Chetan309044@gmail.com](mailto:chetan309044@gmail.com)
+- 📫 How to find me:
+  - 📧 [Mail](mailto:chetan309044@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/chetansharma30/)
+  
 ###
 
 <div align="center">
@@ -7,7 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan309&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 💻 Tech Stack:
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -46,6 +60,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
+
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
