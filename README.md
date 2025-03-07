@@ -5,7 +5,7 @@
 - 🌊 I'm from India. 
 - 🔭 I’m currently in my 3rd year of Computer Science Engineering.
 - 🌱 Currently exploring Nextjs and DSA in Java.
-- ⚡ Fun fact: I love Photography and Fitness.
+- ⚡ Hobbies: I love Photography and Lifting weights.
 - 💬 Ask me about Web Development, Photography or anything [Here](https://www.linkedin.com/in/chetansharma30/)
 - 📫 You can reach me out via [Chetan309044@gmail.com](mailto:chetan309044@gmail.com)
 - 📫 How to find me:
