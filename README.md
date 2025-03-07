@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 Hi there, I'm Chetan Sharma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
  
-- 🌊 I'm from India.
+- 🌊 I'm from India. 
 - 🔭 I’m currently in my 3rd year of Computer Science Engineering.
 - 🌱 Currently exploring Nextjs and DSA in Java.
 - ⚡ Fun fact: I love Photography and Fitness.
